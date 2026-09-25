@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/earth-search",
   "title": "Earth Search",
   "description": "Sentinel and Landsat imagery catalogue from Element 84's Earth Search over the AWS Open Data…",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/earth-search",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-earth-search",

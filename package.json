@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-earth-search",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sentinel and Landsat imagery catalogue from Element 84's Earth Search over the AWS Open Data registry — search Sentinel-1/2, Landsat Collection 2, NAIP and Copernicus DEM by area and date and get item ids, footprints, cloud cover and cloud-optimised GeoTIFF URLs.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-e354103a392e22dc7963f990f57369dcb2a92615aebd2cedf2ca3d96414ffd7e",
-    "sourceCommit": "70cd53748fc9f9a43ed3681d751bfa96e701efd2"
+    "sourceHash": "v1-fdd56c8daa84f386dd331595761551456556d79d5107e70163bdf68d1323b64c",
+    "sourceCommit": "4fa4c64448be06f4a2ee4cee19f756f3558a7cad"
   }
 }
